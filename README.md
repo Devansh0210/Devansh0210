@@ -2,7 +2,7 @@
 
 I'm undergrad student in Electrical and Electronics Engineering at BITS Pilani, Pilani.
 
--> 🌱 I’m currently learning:
+🌱 I’m currently learning:
   - about SDRs(Software Defined Radios), Satellites
   - Embedded Systems
   - RF Electronics
