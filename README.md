@@ -1,5 +1,8 @@
 ### Hello, I'm Devansh 👋
 
+I'm undergrad student in Electrical and Electronics Engineering at BITS Pilani, Pilani.
+
+
 <!--
 **Devansh0210/Devansh0210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
