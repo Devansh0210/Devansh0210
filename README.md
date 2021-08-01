@@ -17,9 +17,9 @@ I'm undergrad student in Electrical and Electronics Engineering at BITS Pilani, 
 - 👯 I’m looking to collaborate on making Embedded System, SDR or Communication System related project
 
 ---
-- 🤔 I’m actively looking for help with C++
+<!-- - 🤔 I’m actively looking for help with C++ -->
 
----
+<!-- --- -->
 <!--
 **Devansh0210/Devansh0210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
