@@ -6,15 +6,10 @@ I'm undergrad student in Electrical and Electronics Engineering at BITS Pilani, 
   - about SDRs(Software Defined Radios) :radio:, Satellites :satellite:
   - Embedded Systems :computer:
   - RF Electronics 
-  - SWAN Project
+  - Computer Architecture, FPGA based Design, RISC-V
   
 ---
-- 🔭 I’m currently working on:
-  - Making automated temperature sensor based detector with Raspberry Pi for covid-19 precaution
-  - Adding support for NavIC( Navigation with Indian Constellation) in GNSS-SDR
-
----
-- 👯 I’m looking to collaborate on making Embedded System, SDR or Communication System related project
+- 👯 I’m looking to collaborate on making Embedded System, SDR or Communication System related projects
 
 ---
 <!-- - 🤔 I’m actively looking for help with C++ -->
